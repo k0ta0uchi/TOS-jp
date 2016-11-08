@@ -10,6 +10,11 @@ https://github.com/Miei/TOS-lua
 
 [![itemdrops](https://github.com/k0ta0uchi/TOS-jp/blob/master/imgs/readme1.png)]
 
+### Context Menu Additions
+https://github.com/Miei/TOS-lua  
+
+[![contextmenuadditions](https://github.com/k0ta0uchi/TOS-jp/blob/master/imgs/readme2.png)]
+
 ## 利用について(About usage)
 現在日本サーバーでAddonについて言及されているのは下記記事のインタビューでのみです。各自該当部分を読み、自己責任での利用をお願い致します。  
 
